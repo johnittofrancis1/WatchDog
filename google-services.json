@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976241271098",
+    "firebase_url": "https://watchdog-62889.firebaseio.com",
+    "project_id": "watchdog-62889",
+    "storage_bucket": "watchdog-62889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976241271098:android:b9c798ca58346db10a3003",
+        "android_client_info": {
+          "package_name": "com.example.watchdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976241271098-h9g6ai97orcosa2huh9fa533qs7li95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXzioAdWiAYwoZWJaCp3-47Odu6U7X3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976241271098-h9g6ai97orcosa2huh9fa533qs7li95b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
